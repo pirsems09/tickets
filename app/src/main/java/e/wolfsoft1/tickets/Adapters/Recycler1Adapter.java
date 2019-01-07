@@ -103,7 +103,7 @@ public class Recycler1Adapter extends RecyclerView.Adapter<Recycler1Adapter.MyVi
                 }
             });
 
-            
+
         }
 
     @Override

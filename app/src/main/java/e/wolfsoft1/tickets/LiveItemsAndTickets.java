@@ -44,8 +44,6 @@ public class LiveItemsAndTickets extends AppCompatActivity {
 
                         replace_fragment(new TicketFragment());
                         break;
-
-
                 }
 
 
