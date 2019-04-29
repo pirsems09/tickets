@@ -25,6 +25,10 @@ public class LiveItemsAndTickets extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_live_items_and_tickets);
 
+
+
+
+
         setupBottomBar();
         frameLayout = (FrameLayout) findViewById(R.id.framelayout);
         mBottomBar = (BottomBar) findViewById(R.id.bottombar);
